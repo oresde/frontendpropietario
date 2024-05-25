@@ -3,7 +3,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 
 //const URL = 'http://localhost:5000/api/propietarios/';
-const URL = 'https://backendpropietario.onrender.com/api/propietarios';
+const URL = 'https://backendpropietario.onrender.com/api/propietarios/';
 
 const CompEditarPropietarios = () => {
 
